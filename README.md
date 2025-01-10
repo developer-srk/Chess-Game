@@ -1,2 +1,2 @@
-# HelloWorld.html
-My First Repository
+# Chess-Game
+My First Game
