@@ -1,5 +1,5 @@
 # Chess-Game
-Description: This is a simple chess game made with HTML, CSS, and JavaScript. It lets two players play chess directly in the web browser. The game is easy to play and has a basic design to help users enjoy a smooth and fun experience.
+Description - This is a simple chess game made with HTML, CSS, and JavaScript. It lets two players play chess directly in the web browser. The game is easy to play and has a basic design to help users enjoy a smooth and fun experience.
 
 Features:
 
@@ -16,3 +16,5 @@ CSS3: Used to style the game and make the chessboard and pieces look good.
 JavaScript: Handles the game logic, moves, turns, and interactions.
 
 Thank You All
+
+Author - Developer SRK
